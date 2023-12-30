@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalasthana&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalasthana" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalasthana" alt="pranjalasthana" /></a> </p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalasthana&theme=onedark" alt="pranjalasthana" /></a> </p>  
   
 - 🔭 Checkout my latest project on [Recommendation Systems](triptych.streamlit.app)  
   
@@ -25,4 +25,4 @@ My badges from Hacktober Fest 2023![An image of @pranjalasthana's Holopin badges
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalasthana&show_icons=true&theme=dark&locale=en" alt="pranjalasthana" /></p>  
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalasthana&" alt="pranjalasthana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalasthana&theme=onedark" alt="pranjalasthana" /></p>
