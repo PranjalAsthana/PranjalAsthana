@@ -5,7 +5,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalasthana&theme=onedark&margin-w=15&margin-h=15" alt="pranjalasthana" /></a> </p>  
   
-- 🔭 Checkout my latest project on [Recommendation Systems](triptych.streamlit.app)  
+- 🔭 Checkout my latest project on [Recommendation Systems](https://triptych.streamlit.app/)  
   
 - 🌱 I’m currently learning **LLM, Computer Vision, NLP**  
   
