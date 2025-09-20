@@ -11,7 +11,7 @@
   
 - 💬 Ask me about **Python, AI, ML**  
   
-- 📄  [Know about my experiences(Resume)](https://drive.google.com/file/d/1QLA-NuuF2GJj3kRQ8O9PukrVMUXV1BiQ/view?usp=sharing)  
+- 📄  [Know about my experiences(Resume)](https://drive.google.com/file/d/1KruPZTkOn1XOFHN9AghqQ9yYS0QcEctu/view?usp=sharing)  
   
 
 
