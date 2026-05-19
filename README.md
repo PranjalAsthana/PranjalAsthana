@@ -15,7 +15,8 @@
   
 
 
-My badges from Hacktober Fest 2023![An image of @pranjalasthana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjalasthana)
+<!-- My badges from Hacktober Fest 2023-->
+![An image of @pranjalasthana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjalasthana)
 
 <!-- 
 <h3 align="left">Connect with me:</h3>  
