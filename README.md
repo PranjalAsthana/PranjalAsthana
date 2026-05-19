@@ -34,7 +34,13 @@ My badges from Hacktober Fest 2023![An image of @pranjalasthana's Holopin badges
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalasthana&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="pranjalasthana" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalasthana&show_icons=true&theme=dark&locale=en" alt="pranjalasthana" /></p>  
+ 
+  [![Star History Chart](https://api.star-history.com/svg?repos=PranjalAsthana/github-readme-activity-graph&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+  
   --> 
+  
+[![Pranjal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranjalAsthana&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalasthana&theme=onedark" alt="pranjalasthana" /></p>
 
     
