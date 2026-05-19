@@ -38,7 +38,7 @@ My badges from Hacktober Fest 2023![An image of @pranjalasthana's Holopin badges
   [![Star History Chart](https://api.star-history.com/svg?repos=PranjalAsthana/github-readme-activity-graph&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
   
   --> 
-  
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/PranjalAsthana?theme=gradient&reputation=false&hard=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal)
 [![Pranjal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranjalAsthana&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalasthana&theme=onedark" alt="pranjalasthana" /></p>
